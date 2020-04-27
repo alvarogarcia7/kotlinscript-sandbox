@@ -1,0 +1,17 @@
+<mutation>
+<sourceFile>not empty</sourceFile>
+</mutation>
+//<mutation detected='true' status='KILLED' numberOfTestsRun='2'>
+//<sourceFile>Game.java</sourceFile>
+//<mutatedClass>com.adaptionsoft.games.uglytrivia.Game</mutatedClass>
+//<mutatedMethod>didPlayerWin</mutatedMethod>
+//<methodDescription>()Z</methodDescription>
+//<lineNumber>109</lineNumber>
+//<mutator>org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator</mutator>
+//<index>7</index>
+//<block>14</block>
+//<killingTest>
+//        com.adaptionsoft.games.trivia.functional.GameTest.itsLockedDown(com.adaptionsoft.games.trivia.functional.GameTest)
+//</killingTest>
+//<description>negated conditional</description>
+//</mutation>
