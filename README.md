@@ -22,4 +22,4 @@ kscript --idea validate-xml.kt
 
 ## Links
 
-  * [Kotlinscript](https://github.com/holgerbrandl/kscript)
+  * [Kscript: homepage](https://github.com/holgerbrandl/kscript)
