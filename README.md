@@ -1,4 +1,4 @@
-# Kotlinscript sandbox
+# Kotlinscript demo
 
 Run kotlinscript
 
